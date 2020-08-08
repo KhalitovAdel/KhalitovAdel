@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Adel.
 
-My name is Adel, I'm from Russian.
-
-I am a back-end developer.
-
-I am JS (TypeScript) | Python programmer since 2017.
+<img class="emoji" alt="goal_net" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">  I am JS (TypeScript) | Python back-end developer since 2017.
 
 [resume] - invite me for an interview.
 
